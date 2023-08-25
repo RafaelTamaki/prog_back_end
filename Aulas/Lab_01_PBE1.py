@@ -7,9 +7,3 @@
 dolar = float (input("Digite o valor em dólar "))
 real = dolar*5.50
 print ("O valor em real é: ",real)
-
-
-#n = int(input("Entre com um valor "))
-#n = 0
-#while n%2 != 0:
-    
